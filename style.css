@@ -35,14 +35,14 @@ body{
     border-radius: 10px;
 }
 
-.gitIcon{
+.iconNav{
     color: #fff;
     font-size: 30px !important;
     text-decoration: none;
     padding: 10px;
 }
 
-.gitIcon:hover{
+.iconNav:hover{
     background-color: #FFF;
     color: #000;
     border-radius: 10px;
